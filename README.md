@@ -33,13 +33,13 @@ With the advanced request to employ a team of robots to perform a task collabora
 
 <div align="center">
 
-| Topic                           | Type                        |
-| --------------------------------| --------------------------- |
-| /xxx/left_camera/compressed     | sensor_msgs/CompressedImage |
-| /xxx/right_camera/compressed    | sensor_msgs/CompressedImage |
-| /xxx/velodyne_points            | sensor_msgs/PointCloud2     |
-| /xxx/imu/data                   | sensor_msgs/Imu             |
-| /xxx/nlink_linktrack_nodeframe2 | std_msgs/FLoat64MultiArray  |
+| Topic                           | Type                             |
+| --------------------------------| -------------------------------- |
+| /xxx/left_camera/compressed     | sensor_msgs/CompressedImage      |
+| /xxx/right_camera/compressed    | sensor_msgs/CompressedImage      |
+| /xxx/velodyne_points            | sensor_msgs/PointCloud2          |
+| /xxx/imu/data                   | sensor_msgs/Imu                  |
+| /xxx/nlink_linktrack_nodeframe2 | std_msgs/FLoat64MultiArray (UWB) |
 
 </div>
 
