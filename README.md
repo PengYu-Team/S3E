@@ -13,7 +13,7 @@
 ## **<font color='red'>Update ! </font>**
 ### 2024/04/02 We are currently in the process of integrating UWB data into S3E, and anticipate the release of the new dataset in the near future.
 ### 2023/05/26 [BaiduYun](https://pan.baidu.com/s/18zzxXACyd3W3OkbSg2vLrA?pwd=ivnm) is available.
-### 2022/11/08 The data download [link](https://download.amovlab.com/s3e/) is available.
+### 2022/11/08 ~~The data download [link](https://download.amovlab.com/s3e/) is available.~~
 
 <!-- ## Abstract:
 
