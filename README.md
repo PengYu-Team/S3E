@@ -3,6 +3,7 @@
 > [!Note]
 > Accepted by IEEE Robotics and Automation Letters (RA-L) !
 
+- (20251017) 数据集提供百度网盘下载地址：链接: https://pan.baidu.com/s/19t2WhhUvNnNqKX0zLDhRIA?pwd=sysu 提取码: sysu
 > [!TIP]
 > This is a project website of S3E dataset. 
 > 
